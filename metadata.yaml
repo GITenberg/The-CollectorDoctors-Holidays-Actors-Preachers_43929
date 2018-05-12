@@ -1,0 +1,39 @@
+_repo: The-CollectorDoctors-Holidays-Actors-Preachers_43929
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Doran, Dr. (John)
+    alias: Doran, John
+    birthdate: 1807
+    deathdate: 1878
+    gutenberg_agent_id: '44142'
+    url: http://www.gutenberg.org/2009/agents/44142
+covers:
+- cover_type: archival
+  image_path: 43929-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tuckerman, Henry T. (Henry Theodore)
+    alias: Tuckerman, Henry Theodore
+    birthdate: 1813
+    deathdate: 1871
+    gutenberg_agent_id: '42482'
+    url: http://www.gutenberg.org/2009/agents/42482
+description: ''
+gutenberg_issued: '2013-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+tableOfContents: Introduction by Dr. Doran -- Inns -- Authors -- Pictures -- Doctors
+  -- Holidays -- Lawyers -- Sepulchres -- Actors -- Newspapers -- Preachers -- Statues
+  -- Bridges.
+title: "The Collector\r\nEssays on Books, Newspapers, Pictures, Inns, Authors, Doctors,\
+  \ Holidays, Actors, Preachers"
+url: http://www.gutenberg.org/ebooks/43929
